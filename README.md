@@ -2,7 +2,7 @@
 
 Para utiliazr este repositório:
 
-    git clone
+    git clone https://github.com/SmartGarcom/backend.git
     
     cd SmartGarcom
     
