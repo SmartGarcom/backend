@@ -1,8 +1,11 @@
 # backend
 
 Para utiliazr este repositório:
+
     git clone
+    
     cd SmartGarcom
+    
     python main.py
 
 # Manutencao deste repo
