@@ -2,10 +2,8 @@
 
 Para utiliazr este repositório:
 
-    git clone https://github.com/SmartGarcom/backend.git
-    
+    git clone https://github.com/SmartGarcom/backend.git    
     cd SmartGarcom
-    
     python main.py
 
 # Manutencao deste repo
