@@ -1,0 +1,6 @@
+
+src/smartgarcom/core/__pycache__/
+
+*.pyc
+
+*.save
